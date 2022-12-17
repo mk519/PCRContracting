@@ -167,8 +167,8 @@ header {
 
 .logo {
   margin: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   margin-left: 10%;
   width: 110px;
   padding: absolute;
@@ -231,7 +231,7 @@ nav {
 }
 
 nav ul {
-  margin-top: 5px;
+  margin-top: 0px;
   padding: 0;
   list-style: none;
   margin-left: 10%;
